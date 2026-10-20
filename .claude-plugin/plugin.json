@@ -1,0 +1,16 @@
+{
+  "name": "merch",
+  "version": "0.1.0",
+  "description": "Search and discover branded merchandise from ethical suppliers. Find products by keyword, category, budget, color, and sustainability rating. Get detailed pricing breakdowns and decoration options.",
+  "author": {
+    "name": "Social Supermarket",
+    "url": "https://www.socialsupermarket.org"
+  },
+  "keywords": [
+    "merchandise",
+    "branded-products",
+    "promotional",
+    "product-search",
+    "sustainability"
+  ]
+}

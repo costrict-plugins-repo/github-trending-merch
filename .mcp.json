@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "merch": {
+      "type": "http",
+      "url": "https://source.socialsupermarket.org/api/mcp"
+    }
+  }
+}
